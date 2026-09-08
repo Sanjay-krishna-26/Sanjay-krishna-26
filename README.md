@@ -97,11 +97,14 @@ Currently gaining hands-on experience in technology, software development, autom
 
 ---
 
-## 📜 Certification
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-* **Certified System Architect (CSA)**
+## 📜 Certifications & 🏆 Achievements
 
----
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sanjay-krishna-26&theme=darkhub&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+### 🎓 Certification
+
+![CSA](https://img.shields.io/badge/Certified%20System%20Architect-PEGA-darkred?style=for-the-badge&logo=pegasystems)
 
 ## 📌 What You'll Find Here
 
