@@ -27,20 +27,20 @@ My goal is to build applications that **simplify processes, improve productivity
 ![AI Agent](https://img.shields.io/badge/AI--Agent-black?style=for-the-badge&logo=openai&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps-blueviolet?style=for-the-badge&logo=devops&logoColor=white)
 ![Gen AI](https://img.shields.io/badge/Gen%20AI-orange?style=for-the-badge&logo=openai&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-green?style=for-the-badge&logo=mlflow&logoColor=white)
 
 ---
 
 ## ⚙️ Tools
 
-![Pega](https://img.shields.io/badge/Pega-darkred?style=for-the-badge&logo=pegasystems&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 ![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=black)
-
 ![Antigravity](https://img.shields.io/badge/Antigravity-grey?style=for-the-badge)
 ![Google%20AI%20Studio](https://img.shields.io/badge/Google%20AI%20Studio-blue?style=for-the-badge&logo=google)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-black?style=for-the-badge&logo=openai&logoColor=white)
+![Pega](https://img.shields.io/badge/Pega-darkred?style=for-the-badge&logo=pegasystems&logoColor=white)
 
 ## 🛠️ Technical Interests
 
