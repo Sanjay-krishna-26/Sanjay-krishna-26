@@ -167,7 +167,7 @@ Let's **learn, build, automate, and innovate together.**
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Sanjay-krishna-26&show_icons=true&theme=radical)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Sanjay-krishna-26&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800)
 
 ---
 
@@ -179,7 +179,7 @@ Let's **learn, build, automate, and innovate together.**
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Sanjay-krishna-26&layout=compact&theme=radical&forks=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Sanjay-krishna-26&repo=Employee_OnBoard_Life_Cycle&layout=compact&theme=radical&cache_seconds=1800)
 
 ---
 
