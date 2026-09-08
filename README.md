@@ -179,7 +179,8 @@ Let's **learn, build, automate, and innovate together.**
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Sanjay-krishna-26&layout=compact&theme=radical)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Sanjay-krishna-26&layout=compact&theme=radical&forks=true)
+
 ---
 
 ## 💡 Quote I Follow
