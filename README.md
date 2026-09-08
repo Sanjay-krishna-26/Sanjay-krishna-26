@@ -21,12 +21,26 @@ I enjoy working at the intersection of **Python, Artificial Intelligence, Genera
 My goal is to build applications that **simplify processes, improve productivity, and create meaningful real-world impact**.
 
 ---
-## Skills
+## 🧠 Skills
 
+![Python Developer](https://img.shields.io/badge/Python%20Developer-blue?style=for-the-badge&logo=python&logoColor=white)
+![AI Agent](https://img.shields.io/badge/AI--Agent-black?style=for-the-badge&logo=openai&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-blueviolet?style=for-the-badge&logo=devops&logoColor=white)
+![Gen AI](https://img.shields.io/badge/Gen%20AI-orange?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+
+## ⚙️ Tools
+
+![Pega](https://img.shields.io/badge/Pega-darkred?style=for-the-badge&logo=pegasystems&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=black)
+
+![Antigravity](https://img.shields.io/badge/Antigravity-grey?style=for-the-badge)
+![Google%20AI%20Studio](https://img.shields.io/badge/Google%20AI%20Studio-blue?style=for-the-badge&logo=google)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-black?style=for-the-badge&logo=openai&logoColor=white)
 
 ## 🛠️ Technical Interests
 
