@@ -180,7 +180,6 @@ Let's **learn, build, automate, and innovate together.**
 ## 💻 Most Used Languages
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sanjay-krishna-26&layout=compact&theme=tokyonight)
-
 ---
 
 ## 💡 Quote I Follow
