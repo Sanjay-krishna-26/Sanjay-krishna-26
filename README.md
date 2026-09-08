@@ -167,8 +167,7 @@ Let's **learn, build, automate, and innovate together.**
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanjay-krishna-26&show_icons=true&theme=radical)
-
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Sanjay-krishna-26&show_icons=true&theme=radical)
 
 ---
 
@@ -180,8 +179,7 @@ Let's **learn, build, automate, and innovate together.**
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay-krishna-26&layout=compact&theme=radical)
-
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Sanjay-krishna-26&layout=compact&theme=radical)
 ---
 
 ## 💡 Quote I Follow
