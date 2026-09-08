@@ -173,8 +173,7 @@ Let's **learn, build, automate, and innovate together.**
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanjay-krishna-26&theme=tokyonight)
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=Sanjay-krishna-26&theme=tokyonight&mode=weekly)
 ---
 
 ## 💻 Most Used Languages
