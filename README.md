@@ -1,6 +1,17 @@
+<p align="center">
+
 # 👋 Hi, I'm Krishna Kancharla
 
+</p>
+
+<p align="center">
+
 ### Python Developer | AI Agent Developer | Generative AI | DevOps | Pega System Architect
+
+</p>
+
+---
+## 🌟 About Me
 
 Welcome to my GitHub profile! I'm a **Computer Science Engineering graduate** passionate about building intelligent, scalable, and automation-driven software solutions.
 
@@ -8,7 +19,7 @@ I enjoy working at the intersection of **Python, Artificial Intelligence, Genera
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me(Highlights))
 
 * 🐍 Python Developer focused on backend development, automation, and API integrations
 * 🤖 AI Agent Developer building intelligent and LLM-powered applications
@@ -97,11 +108,6 @@ Currently gaining hands-on experience in technology, software development, autom
 
 ---
 
-## 📜 Certifications & 🏆 Achievements
-
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sanjay-krishna-26&theme=darkhub&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 ### 🎓 Certification
 
 ![CSA](https://img.shields.io/badge/Certified%20System%20Architect-PEGA-darkred?style=for-the-badge&logo=pegasystems)
@@ -123,23 +129,79 @@ This GitHub profile contains my learning journey and hands-on work across:
 
 ## 🎯 Current Focus
 
-I'm currently focusing on strengthening my skills in:
+I am currently focused on building strong expertise in:
 
-**Python → AI Agents → Generative AI → DevOps → Cloud → Intelligent Automation**
+**Python • AI Agents • Generative AI • DevOps • Cloud Computing • Intelligent Automation • GHL (GoHighLevel) • n8n Automation**
 
-I believe continuous hands-on learning is the best way to transform technology concepts into real-world engineering skills.
+I am actively practicing hands-on projects to transform concepts into real-world engineering solutions and scalable automation systems.
+
+I strongly believe that continuous learning and implementation is the key to mastering modern AI-driven technologies.
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Looking to Collaborate
+- Automation projects  
+- AI + GenAI projects  
+- Workflow automation tools (n8n, Zapier, etc.)
+
+---
+
+## 🌐 Connect with Me
 
 I'm always interested in connecting with developers, AI enthusiasts, DevOps professionals, and technology communities.
 
 Let's **learn, build, automate, and innovate together.**
 
-📧 **Email:** [ksanjaykrishna469@gmail.com]
-🔗 **LinkedIn:** [www.linkedin.com/in/krishna0326]
+<p align="left">
+
+<a href="https://www.linkedin.com/in/krishna0326" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://Sanjay-krishna-26.github.io" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=web&logoColor=white" />
+</a>
+
+<a href="mailto:ksanjaykrishna469@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
 
 ---
 
-⭐ **If you find my projects useful, feel free to explore the repositories and connect with me!**
+## 👀 Profile Views
+
+![Visitors](https://komarev.com/ghpvc/?username=Sanjay-krishna-26&label=Profile%20Views&color=blue&style=flat)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanjay-krishna-26&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanjay-krishna-26&theme=tokyonight)
+
+---
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay-krishna-26&layout=compact&theme=tokyonight)
+
+---
+
+## 💡 Quote I Follow
+
+💡 “Continuous learning is the key to mastering modern technology.”
+
+---
+
+<p align="center">
+
+⭐ If you like my work, feel free to explore my repositories and connect with me!
+
+</p>
