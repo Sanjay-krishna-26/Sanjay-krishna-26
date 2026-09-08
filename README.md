@@ -21,6 +21,12 @@ I enjoy working at the intersection of **Python, Artificial Intelligence, Genera
 My goal is to build applications that **simplify processes, improve productivity, and create meaningful real-world impact**.
 
 ---
+## Skills
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 
 ## 🛠️ Technical Interests
 
