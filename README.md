@@ -98,7 +98,7 @@ Currently gaining hands-on experience in technology, software development, autom
 ---
 
 ## 📜 Certification
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 * **Certified System Architect (CSA)**
 
 ---
