@@ -21,6 +21,8 @@ I enjoy working at the intersection of **Python, Artificial Intelligence, Genera
 
 ## 🚀 About Me(Highlights))
 
+This GitHub profile contains my learning journey and hands-on work across:
+
 * 🐍 Python Developer focused on backend development, automation, and API integrations
 * 🤖 AI Agent Developer building intelligent and LLM-powered applications
 * 🧠 Generative AI enthusiast exploring modern AI technologies
@@ -112,19 +114,6 @@ Currently gaining hands-on experience in technology, software development, autom
 
 ![CSA](https://img.shields.io/badge/Certified%20System%20Architect-PEGA-darkred?style=for-the-badge&logo=pegasystems)
 
-## 📌 What You'll Find Here
-
-This GitHub profile contains my learning journey and hands-on work across:
-
-* 🐍 Python Projects
-* 🤖 AI & Generative AI Projects
-* 🧠 AI Agent Applications
-* ⚙️ Automation Projects
-* 🔌 API Development & Integrations
-* 🚀 DevOps & CI/CD Exercises
-* ☁️ Cloud-related Projects
-* 📚 Learning Experiments and Technical Practice
-
 ---
 
 ## 🎯 Current Focus
@@ -179,7 +168,6 @@ Let's **learn, build, automate, and innovate together.**
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanjay-krishna-26&show_icons=true&theme=tokyonight)
-
 ---
 
 ## 🔥 GitHub Streak
