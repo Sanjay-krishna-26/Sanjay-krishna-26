@@ -165,20 +165,8 @@ Let's **learn, build, automate, and innovate together.**
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Sanjay-krishna-26&show_icons=true&theme=radical&include_all_commits=true&count_private=true&fork=true&cache_seconds=60)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Sanjay-krishna-26&theme=tokyonight&mode=weekly)
----
-
-## 💻 Most Used Languages
-
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Sanjay-krishna-26&layout=compact&theme=radical&include_all_commits=true&forks=true&cache_seconds=60)
+# GitHub Stat's
+![GitHub Stats Card](https://ghstats.dev/api/card?username=Sanjay-krishna-26&theme=radical)
 
 ---
 
