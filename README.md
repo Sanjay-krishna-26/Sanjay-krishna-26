@@ -165,7 +165,7 @@ Let's **learn, build, automate, and innovate together.**
 
 ---
 
-# GitHub Stat's
+# 📊 GitHub Stat's
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=Sanjay-krishna-26&theme=radical)
 
 ---
