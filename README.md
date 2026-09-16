@@ -17,6 +17,9 @@ Welcome to my GitHub profile! I'm a **Computer Science Engineering graduate** pa
 
 I enjoy working at the intersection of **Python, Artificial Intelligence, Generative AI, Agentic AI, and DevOps**, with a strong focus on turning real-world problems into practical technology solutions.
 
+## 🎥 My Intro Video
+<iframe src="https://www.loom.com/share/a6bed231ae9f4259b88fe924629073ef" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ---
 
 ## 🚀 About Me(Highlights))
