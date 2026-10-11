@@ -233,7 +233,7 @@ Let's **learn, build, automate, and innovate together.**
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://Sanjay-krishna-26.github.io" target="_blank">
+<a href="https://krishnakancharla.in/digital-portfolio" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=web&logoColor=white" />
 </a>
 
