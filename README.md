@@ -17,9 +17,6 @@ Welcome to my GitHub profile! I'm a **Computer Science Engineering graduate** pa
 
 I enjoy working at the intersection of **Python, Artificial Intelligence, Generative AI, Agentic AI, and DevOps**, with a strong focus on turning real-world problems into practical technology solutions.
 
-## 🎥 My Intro Video
-[Watch my 60-second intro](https://www.loom.com/share/4079cfe5e3d54dcc9b10fce077d18db9)
-
 ---
 
 ## 🚀 About Me(Highlights))
@@ -37,6 +34,71 @@ This GitHub profile contains my learning journey and hands-on work across:
 My goal is to build applications that **simplify processes, improve productivity, and create meaningful real-world impact**.
 
 ---
+
+🚀 Featured Projects
+
+1. Employee Onboarding Life Cycle
+
+Technologies: Python · Generative AI · APIs · Workflow Automation
+
+A full-stack HR management system designed to streamline employee onboarding, employee assessments, and HR workflows.
+
+Key Features
+
+🔐 Role-Based Access Control (RBAC) for user permissions
+
+🧠 Automated skill assessments
+
+📂 Google Drive integration for document management
+
+📊 Employee onboarding progress tracking
+
+🔄 Workflow automation to improve HR process efficiency
+
+Key Focus: Backend Development · AI Integration · API Integration · HR Automation
+
+2. AI-Based Resume Analyzer and Job Recommendation System
+
+Technologies: Artificial Intelligence · Resume Analysis · Job Recommendations
+
+An AI-based application designed to analyze resumes, identify candidate skills, and recommend suitable job opportunities based on qualifications and professional interests.
+
+Key Features
+
+📄 Resume analysis and skill identification
+
+🎯 Job recommendations based on candidate profiles
+
+🔍 Identification of skill gaps and improvement areas
+
+📚 Suggestions for resume improvement and career development
+
+🤖 AI-assisted career guidance
+
+Key Focus: AI Applications · Skill Mapping · Intelligent Recommendations · Career Guidance
+
+3. Automated Vehicle Acquisition System Using Pega 24.2
+
+Technologies: Pega 24.2 · DX APIs · Low-Code Development · Workflow Automation
+
+An enterprise workflow application designed to streamline the vehicle acquisition process, from vehicle selection through Registration Certificate (RC) transfer.
+
+Key Features
+
+🚗 Vehicle acquisition workflow management
+
+🔄 Streamlined process from vehicle selection to RC transfer
+
+🔗 DX API integration
+
+🏗️ Low-code application development using Pega
+
+⚙️ Business process automation
+
+Key Focus: Pega System Architecture · Enterprise Applications · API Integration · Workflow Automation
+
+---
+
 ## 🧠 Skills
 
 ![Python Developer](https://img.shields.io/badge/Python%20Developer-blue?style=for-the-badge&logo=python&logoColor=white)
@@ -93,14 +155,35 @@ My goal is to build applications that **simplify processes, improve productivity
 
 ---
 
-## 💼 Experience
+💼 Professional Experience
 
-### Agent Ops Labs
+AgentOps Labs
 
-**Information Technology Intern**
-📅 June 2026 – Present | Hyderabad
+AI Engineer
+📅 October 2026 – Present | Hyderabad, India
 
-Currently gaining hands-on experience in technology, software development, automation, and modern engineering practices.
+Currently working as an AI Engineer, building on the experience gained during my IT internship at the same organization.
+
+Contributing to AI-driven applications and intelligent automation.
+
+Applying technical knowledge to practical engineering tasks.
+
+Exploring AI integration and application development.
+
+Strengthening problem-solving, development, and system integration skills.
+
+IT Intern
+📅 July 2026 – August 2026 | AgentOps Labs
+
+Completed an IT internship focused on Generative AI concepts, practical applications, technical learning, and problem-solving in a professional environment.
+
+Gained exposure to Generative AI and real-world applications.
+
+Developed technical and analytical skills.
+
+Worked on learning-driven tasks and project activities.
+
+Built a foundation for transitioning into an AI Engineer role.
 
 ---
 
