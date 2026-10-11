@@ -35,9 +35,9 @@ My goal is to build applications that **simplify processes, improve productivity
 
 ---
 
-🚀 Featured Projects
+<h1>🚀 Featured Projects</h1>
 
-1. Employee Onboarding Life Cycle
+<h2>1. Employee Onboarding Life Cycle</h2>
 
 Technologies: Python · Generative AI · APIs · Workflow Automation
 
@@ -57,7 +57,7 @@ Key Features
 
 Key Focus: Backend Development · AI Integration · API Integration · HR Automation
 
-2. AI-Based Resume Analyzer and Job Recommendation System
+<h2>2. AI-Based Resume Analyzer and Job Recommendation System</h2>
 
 Technologies: Artificial Intelligence · Resume Analysis · Job Recommendations
 
@@ -77,7 +77,7 @@ Key Features
 
 Key Focus: AI Applications · Skill Mapping · Intelligent Recommendations · Career Guidance
 
-3. Automated Vehicle Acquisition System Using Pega 24.2
+<h2>3. Automated Vehicle Acquisition System Using Pega 24.2</h2>
 
 Technologies: Pega 24.2 · DX APIs · Low-Code Development · Workflow Automation
 
