@@ -155,11 +155,11 @@ Key Focus: Pega System Architecture · Enterprise Applications · API Integratio
 
 ---
 
-💼 Professional Experience
+<h1>💼 Professional Experience</h1>
 
-AgentOps Labs
+<h2>AgentOps Labs</h2>
 
-AI Engineer
+<b>AI Engineer</b>
 📅 October 2026 – Present | Hyderabad, India
 
 Currently working as an AI Engineer, building on the experience gained during my IT internship at the same organization.
@@ -172,7 +172,7 @@ Exploring AI integration and application development.
 
 Strengthening problem-solving, development, and system integration skills.
 
-IT Intern
+<b>IT Intern</b>
 📅 July 2026 – August 2026 | AgentOps Labs
 
 Completed an IT internship focused on Generative AI concepts, practical applications, technical learning, and problem-solving in a professional environment.
